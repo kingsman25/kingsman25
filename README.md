@@ -84,7 +84,6 @@ hobbies: ["Basketball", "Chess", "Learning new technology in free hours"]
 <p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>  
 </p>
 
 <p align="center">
