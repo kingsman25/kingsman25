@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh5N292dXIyZWl5dGw4cDVmdGM4N3U1cnF5ZTUxZGljNHF0NDhlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400" height="400"/>
+</p>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -19,7 +22,8 @@
 ```yaml
 name: Shamik Roy
 located_in: Kolkata, West Bengal
-current_job: Software Engineer
+current_job: Software Engineer(Backend Developer in Mainframe)
+work experience: 2years
 education:
   [
     "Bachelor's in Computer Science Engineering",
@@ -45,6 +49,12 @@ hobbies: ["Basketball", "Chess", "Learning new technology in free hours"]
 ```
   
 ---  
+
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWd4b2Y3aDdma3dwejAxOTRyYzVvN2dmeWtxYWo1ZXlmOG4wbnVueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DPkmxreCZxr7QD9Bq8/giphy.gif" width="400" height="400"/>
+</p>
+
+---
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -63,7 +73,18 @@ hobbies: ["Basketball", "Chess", "Learning new technology in free hours"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="bash" width="45" height="45"/>
+            
+</p>
+
+---
+
+<p align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG8xaDViajk1cXppMGQwdWpsazEwODJvcXhncmxrOWo5dzQwOXdjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy-downsized.gif" width="300" height="400"/>  
 </p>
 
 <p align="center">
