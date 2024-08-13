@@ -22,7 +22,7 @@
 ```yaml
 name: Shamik Roy
 located_in: Kolkata, West Bengal
-current_job: Software Engineer(Backend Developer in Mainframe)
+current_job: Software Engineer(Backend Developer in Java)
 work experience: 2years
 education:
   [
